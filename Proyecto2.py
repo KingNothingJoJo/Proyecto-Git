@@ -1,1 +1,1 @@
-print("Segundo intento porque el primero no lo guarde")
+print("Segundo intento porque el primero no")
